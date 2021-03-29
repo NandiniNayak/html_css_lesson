@@ -1,0 +1,27 @@
+.box{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid blue;
+    display: inline-block;
+    /* position:absolute;
+    top: 100px;
+    left: 300px; */
+}
+
+img{
+    display: inline;
+    margin: 10px;
+}
+
+body{
+    background-image: url("../img/kitty.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* example of aboslute units */
+/* px,cm,mm */
+
+/* relative units */
+/* vw, vh, %, em, rem */
